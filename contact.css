@@ -1,0 +1,62 @@
+body{
+    background-image: url(wall.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+.titre{
+    width: 300px;
+    margin-left: 550px;
+    padding-right: 50px;
+
+}
+
+.nav{
+    font-size: x-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: end;
+    
+    
+    margin: 70px;
+    
+}
+.nav li{
+    display: inline-block;
+}
+.nav li a{
+    text-decoration: none;
+    padding: 5px 20px;
+    color:rgb(21, 77, 219);
+
+    
+}
+.Contact{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(0, 72, 240);
+    padding-left: 400px;
+    font-size: 100px;
+}
+.discord{
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(0, 72, 240);
+    font-size: 35px;
+    padding-left: 205px;
+
+}
+.link{font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(206, 60, 255);
+    font-size: x-large;
+    
+}
+
+
+
+.copy{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    color: blueviolet;
+
+}

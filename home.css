@@ -1,0 +1,48 @@
+body{
+    background-image: url(wall.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+.titre{
+    width: 300px;
+    margin-left: 550px;
+    padding-right: 50px;
+
+}
+
+.nav{
+    font-size: x-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: end;
+    
+    
+    margin: 70px;
+    
+}
+.nav li{
+    display: inline-block;
+}
+.nav li a{
+    text-decoration: none;
+    padding: 5px 20px;
+    color:rgb(21, 77, 219);
+
+    
+}
+.photowall{
+    width: 900px;
+    margin-left: 250px;
+    padding-right: 50px;
+
+}
+
+.copy{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    color: blueviolet;
+
+}
+
